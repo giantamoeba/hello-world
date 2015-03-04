@@ -1,2 +1,2 @@
 # hello-world
-you know it
+Here is a more descriptive description of the repo! enjoy it.
